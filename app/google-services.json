@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941856411170",
+    "project_id": "applogisticadecalzado",
+    "storage_bucket": "applogisticadecalzado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941856411170:android:0e900415728354e147c47b",
+        "android_client_info": {
+          "package_name": "com.lizven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941856411170-47rovjpqgsi6hnklm72fqi5bt0clufsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG_GIfyEK0qtOG4iFNnprX6g5Xgvm06xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941856411170-47rovjpqgsi6hnklm72fqi5bt0clufsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

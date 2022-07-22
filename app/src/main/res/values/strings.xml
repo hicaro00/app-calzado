@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">appAdminCalzado</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="User_Name">Nombre de Usuario</string>
+    <string name="E_maill">Correo Electronico</string>
+    <string name="logo_principal">logo principal</string>
+    <string name="login">Login / ingresar</string>
+    <string name="si_aun_no_tiene_una_cuenta">si aun no tiene una cuenta</string>
+    <string name="contacte_con_el_administrador">contacte con su administrador</string>
+    <string name="contrasena">contraseña</string>
+</resources>
