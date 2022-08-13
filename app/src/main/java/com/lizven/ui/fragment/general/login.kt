@@ -1,4 +1,4 @@
-package com.lizven.ui.general
+package com.lizven.ui.fragment.general
 
 import android.os.Bundle
 import android.view.View
@@ -17,7 +17,9 @@ class Login : Fragment(R.layout.fragment_login) {
         val binding = FragmentLoginBinding.bind(view)
         fragmentLoginBinding = binding
 
-        binding.passw.text?.trim()
+
+
+
 
 
     }

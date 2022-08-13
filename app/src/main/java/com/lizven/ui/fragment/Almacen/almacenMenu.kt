@@ -1,4 +1,4 @@
-package com.lizven.ui.Almacen
+package com.lizven.ui.fragment.Almacen
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

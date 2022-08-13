@@ -43,11 +43,11 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-    implementation 'androidx.navigation:navigation-fragment-ktx:2.5.0'
-    implementation 'androidx.navigation:navigation-ui-ktx:2.5.0'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.5.1'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.5.1'
     //firebase
-    implementation 'com.google.firebase:firebase-auth-ktx:21.0.6'
-    implementation 'com.google.firebase:firebase-firestore-ktx:24.2.0'
+    implementation 'com.google.firebase:firebase-auth-ktx:21.0.7'
+    implementation 'com.google.firebase:firebase-firestore-ktx:24.2.2'
     implementation 'com.google.firebase:firebase-storage-ktx:20.0.1'
     //tert unitarios
     testImplementation 'junit:junit:4.13.2'
@@ -55,8 +55,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     //romm data Base
-    implementation"androidx.room:room-runtime:2.4.2"
-    annotationProcessor"androidx.room:room-compiler:2.4.2"
+    implementation"androidx.room:room-runtime:2.4.3"
+    annotationProcessor"androidx.room:room-compiler:2.4.3"
 
     //corrutinas
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1'
