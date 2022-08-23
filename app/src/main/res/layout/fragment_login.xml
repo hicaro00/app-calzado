@@ -65,7 +65,7 @@
 
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/pasword_text"
+            android:id="@+id/paswordText"
             android:inputType="textPassword"
             android:layout_width="250sp"
             android:layout_height="wrap_content"
@@ -105,9 +105,10 @@
         app:layout_constraintVertical_bias="0.110000014" />
 
     <com.google.android.material.textview.MaterialTextView
+        android:id="@+id/materialTextView2"
         android:layout_width="wrap_content"
-        android:layout_height="19dp"
 
+        android:layout_height="19dp"
         android:text="@string/contacte_con_el_administrador"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -116,8 +117,15 @@
         app:layout_constraintTop_toBottomOf="@+id/materialTextView"
         app:layout_constraintVertical_bias="0.120000005" />
 
-
-
+    <ProgressBar
+        android:id="@+id/progressBarlogin"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

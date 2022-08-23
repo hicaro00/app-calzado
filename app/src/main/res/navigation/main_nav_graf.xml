@@ -9,5 +9,14 @@
         android:id="@+id/login"
         android:name="com.lizven.ui.fragment.general.Login"
         android:label="fragment_login"
-        tools:layout="@layout/fragment_login" />
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_login_to_almacenMenu"
+            app:destination="@id/almacenMenu" />
+    </fragment>
+    <fragment
+        android:id="@+id/almacenMenu"
+        android:name="com.lizven.ui.fragment.Almacen.almacenMenu"
+        android:label="fragment_almacen_menu"
+        tools:layout="@layout/fragment_almacen_menu" />
 </navigation>
