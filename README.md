@@ -6,8 +6,8 @@ Cada cuanta representa unaa empesa, es conviente mencionar que esta dirigido par
 
 1.- pantalla
 
-[20220825_235940_paantalla1.PNG](assets/20220825_235940_paantalla1.PNG)
+[20220826_000419_paantalla1.PNG](assets/20220826_000419_paantalla1.PNG)
 
 2.- arquitectura
 
-[20220826_000040_proyecto1.png](assets/20220826_000040_proyecto1.png)
+[20220826_000040_proyecto1.png](assets/20220826_000040_proyecto.jpg)
