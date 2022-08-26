@@ -10,4 +10,5 @@ Cada cuanta representa unaa empesa, es conviente mencionar que esta dirigido par
 
 2.- arquitectura
 
-[20220826_000040_proyecto1.png](assets/proyecto.jpg)
+
+[20220826_001950_proyecto.jpg](assets/20220826_001950_proyecto.jpg)
