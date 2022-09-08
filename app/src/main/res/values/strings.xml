@@ -9,4 +9,11 @@
     <string name="si_aun_no_tiene_una_cuenta">si aun no tiene una cuenta</string>
     <string name="contacte_con_el_administrador">contacte con su administrador</string>
     <string name="contrasena">contraseña</string>
+    <string name="contenedo_de_items">contenedo-de-items</string>
+    <string name="productos_terminados">productos terminados</string>
+    <string name="productos_en_proceso">productos en proceso</string>
+    <string name="maquinas_herramientas">Maquinas/herramientas</string>
+    <string name="materiales_indirectos">Materiales indirectos</string>
+    <string name="materiales_directos">Materiales directos</string>
+    <string name="registro_de_materiales">registro de materiales</string>
 </resources>

@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/patrones/app/src/main/res/layout/activity_main.xml" value="0.2546875" />
-        <entry key="..\:/patrones/app/src/main/res/layout/fragment_almacen_menu.xml" value="0.11302083333333333" />
+        <entry key="..\:/patrones/app/src/main/res/layout/fragment_almacen_menu.xml" value="0.2546875" />
         <entry key="..\:/patrones/app/src/main/res/layout/fragment_login.xml" value="0.21770833333333334" />
+        <entry key="..\:/patrones/app/src/main/res/layout/fragment_mnu_principal.xml" value="0.2546875" />
+        <entry key="..\:/patrones/app/src/main/res/layout/fragment_registro_materiales.xml" value="0.19814814814814816" />
+        <entry key="..\:/patrones/app/src/main/res/layout/fragment_tool_bar.xml" value="0.2546875" />
       </map>
     </option>
   </component>

@@ -11,12 +11,30 @@
         android:label="fragment_login"
         tools:layout="@layout/fragment_login" >
         <action
-            android:id="@+id/action_login_to_almacenMenu"
-            app:destination="@id/almacenMenu" />
+            android:id="@+id/action_login_to_mnuPrincipal"
+            app:destination="@id/mnuPrincipal" />
     </fragment>
     <fragment
         android:id="@+id/almacenMenu"
         android:name="com.lizven.ui.fragment.Almacen.almacenMenu"
         android:label="fragment_almacen_menu"
-        tools:layout="@layout/fragment_almacen_menu" />
+        tools:layout="@layout/fragment_almacen_menu" >
+        <action
+            android:id="@+id/action_almacenMenu_to_registroMateriales"
+            app:destination="@id/registroMateriales" />
+    </fragment>
+    <fragment
+        android:id="@+id/mnuPrincipal"
+        android:name="com.lizven.ui.fragment.general.MnuPrincipal"
+        android:label="fragment_mnu_principal"
+        tools:layout="@layout/fragment_mnu_principal" >
+        <action
+            android:id="@+id/action_mnuPrincipal_to_almacenMenu"
+            app:destination="@id/almacenMenu" />
+    </fragment>
+    <fragment
+        android:id="@+id/registroMateriales"
+        android:name="com.lizven.ui.fragment.Almacen.registroMateriales"
+        android:label="fragment_registro_materiales"
+        tools:layout="@layout/fragment_registro_materiales" />
 </navigation>

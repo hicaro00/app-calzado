@@ -36,7 +36,7 @@ class Login : Fragment(R.layout.fragment_login) {
     }
     private fun isUsserLogIn(){
         firebaseAuth.currentUser?.let {
-            findNavController().navigate(R.id.action_login_to_almacenMenu) }
+            findNavController().navigate(R.id.action_login_to_mnuPrincipal) }
     }
 
     private fun doLogin(){
@@ -71,7 +71,7 @@ class Login : Fragment(R.layout.fragment_login) {
               }
               is Resource.Success -> {
                   binding.progressBarlogin.visibility = View.GONE
-                  findNavController().navigate(R.id.action_login_to_almacenMenu)
+                  findNavController().navigate(R.id.action_login_to_mnuPrincipal)
                   Toast.makeText(context,"bienvenido",Toast.LENGTH_SHORT).show()
 
               }
